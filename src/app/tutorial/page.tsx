@@ -208,19 +208,18 @@ export default function Tutorial() {
 							</StepLabel>
 							<StepContent>
 								<Box sx={{ display: "flex", flexDirection: "column" }} gap={2}>
-									<span style={{ color: "white" }}>
-										<Typography sx={{ display: "inline-block" }}>
-											It is difficult to enunciate the power of Fela Kuti&apos;s music with words. The best way to
-											understand his music is to listen to it.
-										</Typography>
-										<Typography sx={{ display: "inline-block" }}>
-											There is a music player included with this project. You can find the&nbsp;
-										</Typography>
-										<Typography sx={{ display: "inline-block", color: theme.palette.amber.main }} variant="button">
-											Music Player
-										</Typography>
-										<Typography sx={{ display: "inline-block" }}>
-											&nbsp;in the top-left corner of the screen.
+									<Box style={{ color: "white" }}>
+										<Typography>
+											<span>
+												It is difficult to enunciate the power of Fela Kuti&apos;s music with words. The best way to
+												understand his music is to listen to it.&nbsp;
+											</span>
+											<span>There is a music player included with this project. You can find the&nbsp;</span>
+											<span style={{ color: theme.palette.amber.main }}>Music Player&nbsp;</span>
+											<span>
+												in the top-left corner of the screen. There, you can find all songs mentioned in this project,
+												and listen while you read.
+											</span>
 										</Typography>
 										<List>
 											<ListItem>
@@ -248,7 +247,7 @@ export default function Tutorial() {
 												<ListItemText>skips to the next song.</ListItemText>
 											</ListItem>
 										</List>
-									</span>
+									</Box>
 									<Box sx={{ display: "flex", width: "100%" }} gap={1}>
 										<Button
 											variant="contained"
