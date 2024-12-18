@@ -5,7 +5,7 @@ import { Suspense } from "react";
 import theme from "./theme";
 
 export const metadata: Metadata = {
-	title: "Fela Kuti: Father of AfroBeat",
+	title: "Fela Kuti: Father of Afrobeat",
 	description: "A project by Maximos Forero.",
 };
 

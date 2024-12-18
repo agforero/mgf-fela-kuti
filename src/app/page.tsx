@@ -9,7 +9,7 @@ export default function Intro() {
 				<Box sx={{ display: "flex", flexDirection: "column", width: "100%", overflowY: "auto" }} gap={3}>
 					<Typography>Welcome to</Typography>
 					<Typography variant="h1" id="mainBanner" style={{ textAlign: "center", fontWeight: 500 }}>
-						Fela Kuti: Father of AfroBeat
+						Fela Kuti: Father of Afrobeat
 					</Typography>
 					<Typography variant="subtitle1" style={{ textAlign: "center" }}>
 						A report by Maximos Forero.
