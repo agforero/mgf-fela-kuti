@@ -12,12 +12,12 @@ const reportText: ReportTextState = [
 		],
 	},
 	{
-		title: "Who was Fela Kuti?",
+		title: "Who Was Fela Kuti?",
 		song: "water-no-get-enemy.mp3",
 		songName: "Water No Get Enemy",
 		subSections: [
 			{
-				text: "# I. Who was Fela Kuti?",
+				text: "# I. Who Was Fela Kuti?",
 			},
 			{
 				text: `_“Fela Kuti: 77 albums, 27 wives, over 200 court appearances. Harassed, beaten, tortured, jailed. Twice-born father of Afro-beat. Spiritualist, Pan-Africanist. Commune King. Composer, saxophonist, keyboardist, dancer. Would-be candidate for the Nigerian Presidency. There will never be another like him.”_ (Saleh)
@@ -49,12 +49,12 @@ For his entire life, Fela Kuti was relentless and determined to bring justice. T
 		],
 	},
 	{
-		title: "What is Afrobeat, and why was it important then and now?",
-		song: "water-no-get-enemy.mp3",
-		songName: "Water No Get Enemy",
+		title: "What Is Afrobeat, and Why Was It Important Then and Now?",
+		song: "gentleman.mp3",
+		songName: "Gentleman",
 		subSections: [
 			{
-				text: "# II. What is Afrobeat, and why was it important then and now?",
+				text: "# II. What Is Afrobeat, and Why Was It Important Then and Now?",
 			},
 			{
 				text: `For people at the time of its relevancy, everything about Afrobeat was hot; it was inherently about rebellion and movement of both mind and body. Also, because Fela had worked with James Brown, the father of Funk, he established that Afrobeat was music for the oppressed and those willing to make a difference. Everything about Afrobeat screamed that it was for the people. (Stewart)
@@ -197,6 +197,98 @@ _Zombie no go think, unless you tell am to think (Zombie)”_`,
 					src: "zombie.png",
 					caption: "(Kuti)",
 				},
+			},
+		],
+	},
+	{
+		title: "His Legacy",
+		song: "expensive-shit.mp3",
+		songName: "Expensive Shit",
+		subSections: [
+			{
+				text: "# IV. His Legacy",
+			},
+			{
+				text: "Fela Kuti brought progressive causes to the forefront of social consciousness, launching a golden age of political awareness in Nigeria, a feat that earned him the title of national hero. However, to say that he was only a highly influential figure in Nigeria would be an understatement. Globally, Fela Kuti is viewed more as a highly determined activist who would go to any extent in order to accomplish his goals. Some of which he helped advance or complete include helping overthrow an apartheid regime in Nigeria, being one of the loudest voices for pan-Africanism even today, and furthering women’s rights across sub-Saharan Africa. (Tenaille)",
+				image: {
+					src: "legacy.png",
+					caption: "(Narlian)",
+				},
+			},
+			{
+				text: `# Works Cited
+				
+Afolayan, Adeshina. _Fela Kuti : Afrobeat, Rebellion and Philosophy_. Bloomsbury Academic, 2021.
+
+_Africa: Journal of the International African Institute_. Vol. 76, no. 4, 2006. _JSTOR_, www.jstor.org/stable/40027302. Accessed 22 Sept. 2024.
+
+Alfred Madain. "Fela Kuti on Colonial Mentality." _YouTube_, 24 May 2008, www.youtube.com/watch?v=usnznJZ0XvA.
+
+The Anti-Apartheid Movement. "Report to the AGM Oct 1988 - Oct 1989." _JSTOR_, 1989,01,01, jstor.org/stable/al.sff.document.aamp2b1200022. Accessed 25 Aug. 2024.
+
+Campbell, John. "Nigeria's Battle for Stability." _The National Interest_, no. 118, 2012, pp. 31-39. _JSTOR_, www.jstor.org/stable/42896438. Accessed 29 Sept. 2024.
+
+CGTN Africa. "Faces of Africa - Fela Kuti: The Father of Afrobeat, Part 2." _YouTube_, 27 Nov. 2017, www.youtube.com/watch?v=5Ts87oRqdfQ.
+
+Eddy, Harry. "Fela Kuti: The King of Afro-Beat." _Capsule Records_, 7 Feb. 2024, capsulerecords.co.uk/blogs/news/fela-kuti-the-king-of-afro-beat.
+
+_Ethnomusicology_. Vol. 50, no. 1, 2006. _JSTOR_, www.jstor.org/stable/20174428. Accessed 22 Sept. 2024.
+
+"Fela Kuti." _Spotify_, open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR.
+
+Fest, Flytime, and Flytime Fest. "The Afrobeat Evolution: From Local Genre to Global Phenomenon." _FlytimeFest_, 9 Aug. 2024, blog.flytimefest.com/music-industry-insights/the-afrobeat-evolution-from-local-genre-to-global-phenomenon/#:~:text=Merging with Different Genres,swing, and Afro-R&B.
+
+Garofalo, Reebee. "Whose World, What Beat: The Transnational Music Industry, Identity, and Cultural Imperialism." _The World of Music_, vol. 35, no. 2, 1993, pp. 16-32. _JSTOR_, www.jstor.org/stable/43615564. Accessed 29 Sept. 2024.
+
+Grass, Randall F. "Fela Anikulapo-Kuti: The Art of an Afrobeat Rebel." _The Drama Review: TDR_, vol. 30, no. 1, 1986, pp. 131-48. _JSTOR_, https://doi.org/10.2307/1145717. Accessed 6 Sept. 2024.
+
+"Heinrich Klaffs." _Flickr_, 28 Nov. 2011, flickr.com/people/47686431@N04.
+
+Ilesanmi, Alaba. "From Fela Kuti to Jimi Hendrix and the Grateful Dead – the Story of Music Manager Rikki Stein." _The Conversation_, theconversation.com/from-fela-kuti-to-jimi-hendrix-and-the-grateful-dead-the-story-of-music-manager-rikki-stein-239874.
+
+"Kalakuta Museum - Fela Kuti." _Fela Kuti_, felakuti.com/us/legacy/kalakuta-museum?srsltid=AfmBOopVIeDw3BfVr4NBKuLsfG3P0cu8pT2G9ur1Jy-\_61c8wB4nhJGF.
+
+Keyes, Cheryl L. "The Aesthetic Significance of African American Sound Culture and Its Impact on American Popular Music Style and Industry." _The World of Music_, vol. 45, no. 3, 2003, pp. 105-29. _JSTOR_, www.jstor.org/stable/41699526. Accessed 22 Sept. 2024.
+
+Killakam. "Fela Kuti Before Afrobeat: Hear His Very Rare Highlife Recordings With Koola Lobitos." _OkayAfrica_, 6 Nov. 2024, www.okayafrica.com/fela-kuti-highlife-recordings-koola-lobitos-new-compilation.
+
+Kimber, Mark. "The Story of Fela Kuti 'Gentleman' & 'Zombie'" _Classic Album Sundays_, 29 Dec. 2018, classicalbumsundays.com/album-of-the-month-fela-kuti-gentleman-zombie.
+
+Kuti, Fela. _Zombie_. 1977. Coconut, 1977. _spotify_, open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL?si=25ec4ea7cf214e64. Accessed 6 Sept. 2024.
+
+Kwekudee. "FUNMILAYO RANSOME-KUTI: THE LIONESS OF LISABI, NIGERIA\`S FOREMOST SUFFRAGIST, WOMEN\`S RIGHT ACTIVIST AND THE MOTHER OF FELA ANIKULAPO-KUTI." _Trip Down Memory Lane_, 12 Nov. 2013, kwekudee-tripdownmemorylane.blogspot.com/2013/11/funmilayo-ransome-kuti-lioness-of.html. Accessed 17 Dec. 2024.
+
+Labinjoh, Justin. "Fela Anikulapo-Kuti: Protest Music and Social Processes in Nigeria." _Journal of Black Studies_, vol. 13, no. 1, 1982, pp. 119-34. _JSTOR_, www.jstor.org/stable/2783979. Accessed 6 Sept. 2024.
+
+_LibGuides: Fela Kuti: Home_. library.rockhall.com/fela\_kuti.
+
+Morgan, Marcyliena, and Dionne Bennett. "Hip-Hop & the Global Imprint of a Black Cultural Form." _Daedalus_, vol. 140, no. 2, 2011, pp. 176-96. _JSTOR_, www.jstor.org/stable/23047460. Accessed 29 Sept. 2024.
+
+Narlian, Laure. "Fela Anikulapo Kuti : Cinq Choses Apprises À L'exposition 'Rebellion Afrobeat' À La Philharmonie De Paris." _Franceinfo_, 11 Nov. 2022, www.francetvinfo.fr/culture/musique/musique-du-monde/fela-anikulapo-kuti-cinq-choses-apprises-a-l-exposition-rebellion-afrobeat-a-la-philharmonie-de-paris\_5439289.html.
+
+Nigeria, Guardian. "Loving Fela: A Tale of Two Kalakuta Queens – Part 1." _The Guardian Nigeria News - Nigeria and World News_, 11 Oct. 2018, guardian.ng/features/loving-fela-a-tale-of-two-kalakuta-queens-part-1.
+
+_Notes_. Vol. 73, no. 3, 2017, www.jstor.org/stable/26397660. Accessed 22 Sept. 2024.
+
+Olaniyan, Tejumola. _Arrest the Music! : Fela and His Rebel Art and Politics_. Indiana UP, 2004.
+
+\---. "The Cosmopolitan Nativist: Fela Anikulapo-Kuti and the Antinomies of Postcolonial Modernity." _Research in African Literatures_, vol. 32, no. 2, 2001, pp. 76-89. _JSTOR_, www.jstor.org/stable/3820905. Accessed 15 Sept. 2024.
+
+_Popular Music_. Vol. 22, no. 3, 2003. _JSTOR_, www.jstor.org/stable/3877588. Accessed 16 Sept. 2024.
+
+Ryan Thomas Skinner. "Why Afropolitanism Matters." _Africa Today_, vol. 64, no. 2, 2017, pp. 3-21. _JSTOR_, https://doi.org/10.2979/africatoday.64.2.01. Accessed 29 Sept. 2024.
+
+Saleh-Hanna, Viviane, et al. "FELA KUTI'S WAHALA MUSIC: POLITICAL RESISTANCE through SONG." _Colonial Systems of Control: Criminal Justice in Nigeria_, U of Ottawa P, 2008, pp. 355-76. _JSTOR_, https://doi.org/10.2307/j.ctt1ckph37.23. Accessed 6 Sept. 2024.
+
+Sanneh, Kelefa, and Femi Kuti. "Here Comes the Son." _Transition_, no. 85, 2000, pp. 114-39. _JSTOR_, www.jstor.org/stable/3137486. Accessed 16 Sept. 2024.
+
+Shonekan, Stephanie. "Fela's Foundation: Examining the Revolutionary Songs of Funmilayo Ransome-Kuti and the Abeokuta Market Women's Movement in 1940s Western Nigeria." _Black Music Research Journal_, vol. 29, no. 1, 2009, pp. 127-44. _JSTOR_, www.jstor.org/stable/20640673. Accessed 16 Sept. 2024.
+
+Sinclair, Leni, et al. _Musician Fela Kuti Performs at Orchestra Hall in Detroit, Michigan, in 1986.... News Photo_. www.gettyimages.com/photos/fela-kuti.
+
+Stewart, Alexander. "Make It Funky: Fela Kuti, James Brown and the Invention of Afrobeat." _American Studies_, vol. 52, no. 4, 2013, pp. 99-118. _JSTOR_, www.jstor.org/stable/24589271. Accessed 29 Sept. 2024.
+
+Tenaille, Frank. _Music Is the Weapon of the Future : Fifty Years of African Popular Music_. Lawrence Hill Books, 2002.`,
 			},
 		],
 	},
