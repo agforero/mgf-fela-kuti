@@ -154,6 +154,37 @@ Fela Kuti is very on the nose when showing that he hates imperialism, as the las
 			},
 		],
 	},
+	{
+		title: "Anti-Militarism Efforts",
+		song: "zombie.mp3",
+		songName: "Zombie",
+		subSections: [
+			{
+				text: "# IIIC. Anti-Militarism Efforts",
+			},
+			{
+				text: `Fela Kuti hones most of his work down this area of activism, as he finds it to be the cause that most directly affects his country, especially considering how aggressive it was. Even today, many sub-Saharan African countries face the issue of extreme police and military brutality, as both have absolutely no issue raping and assaulting the innocent, and this is very likely because there is little to no consequence for doing so. (Tenaille)
+
+Almost every single problem within Fela Kuti’s life rooted from military or police brutality. The military took his mother’s life, his wives were beaten and raped, and almost every single person that was involved with him was imprisoned or persecuted in some kind of way. If anyone had something to say against the military complex, it was Fela Kuti. (Afolayan)`,
+				image: {
+					src: "fela-mom.png",
+					caption: "(Kwekudee)",
+				},
+			},
+			{
+				text: `Probably Fela’s most famous album was Zombie. This album enraged the government so much that they sent a military dispatch of over 1000 soldiers to his compound due to the contents of the album. In the song named after the album, Fela Kuti teases the military and their soldiers by stating that all follow orders blindly without having any thought process behind their actions. (Olaniyan)
+
+_“Zombie no go go, unless you tell am to go (Zombie)_
+_Zombie no go stop, unless you tell am to stop (Zombie)_
+_Zombie no go turn, unless you tell am to turn (Zombie)_
+_Zombie no go think, unless you tell am to think (Zombie)”_`,
+				image: {
+					src: "zombie.png",
+					caption: "(Kuti)",
+				},
+			},
+		],
+	},
 ];
 
 export default reportText;
