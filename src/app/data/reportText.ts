@@ -77,8 +77,8 @@ Fela created this genre by culminating his many disagreements and digressions wi
 
 Following Fela’s understanding that he had the ability to rile up the people in his own country, he set his eyes on a world tour, but more importantly, across Africa. His biggest goal for the genre was to unite the people of Africa, this goal would later be coined as the term Pan-Africanism, the movement to reunify Africa from its terrible colonial past. (Olaniyan)`,
 				image: {
-					src: "james-brown.png",
-					caption: "(Klaffs)",
+					src: "hands.png",
+					caption: "(Ilesanmi)",
 				},
 			},
 		],
