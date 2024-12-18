@@ -95,7 +95,9 @@ Following Fela’s understanding that he had the ability to rile up the people i
 				text: `Although Fela has plenty of work discussing the state of post-colonial Nigeria, the best example of him showing his true thoughts on this was his song Colonial Mentality (Sorrows Tears and Blood), which was made in the immediate fallout of the raid of his compound. In this song, he repeatedly mocks the Nigerian government with such examples:
 
 _“Things dem dey do, dem dey overdo all the things dem dey do,_
+
 _think wey black no good, an foreign things dem dey like,_
+
 _dem go turn air condition, and close them country away."_
 
 As confusing as these lyrics may be, he is essentially stating that the way they conduct things within the country is a direct reflection of how they were treated when they were the cattle of Europe, which is any time between The Berlin Conference (1884) and 1950, which was the beginning of the end of colonizers within Africa. (Fela and Olaniyan)`,
@@ -124,12 +126,19 @@ In this interview conducted after the release of Colonial Mentality, Fela Kuti t
 				text: `Imperialism is a very similar topic to colonialism, as imperialism is a form of colonialism, but in the context of what we will be talking about, Fela Kuti only ever touches on that Nigerian/African society has concepts that are embedded into their culture due to the previous oppressive imperialism that took place. (Tenaille) Fela’s single, Gentlemen, is a song about criticizing men who wear suits because a suit is not fit for the African sun:
 
 _“You say you be gentleman,_
+
 _You go suffer,_
+
 _You go tire,_
+
 _You go quench,_
+
 _I be Africa man original,_
+
 _I no be gentleman at all o!_
+
 _Africa hot, I like am so,_
+
 _I know what to wear but my friends don't know”_
 
 The not-so-subtle undertones of this song say that foreign customs, such as suits, do not belong there in Nigeria, as they are not native to the Nigerian people. (Kuti)`,
@@ -142,8 +151,11 @@ The not-so-subtle undertones of this song say that foreign customs, such as suit
 				text: `Another single that was produced at the same time as Colonial Mentality was Coffin for Head of State, both of which were created with grief for his mother. This song is about Fela personally carrying his mother's coffin to a military barracks and praying for their downfall, which is something he did in real life. As the title states, this song is about Fela’s hatred for the government and how easily they fell into the temptation of manipulating their people for profit:
 
 _“It is a known fact that for many thousand years_
+
 _We Africans we had our own traditions_
+
 _These moneymaking organizations_
+
 _Them come put we Africans in total confusion”_
 
 Fela Kuti is very on the nose when showing that he hates imperialism, as the last two lines of lyrics state his acknowledgment of companies and organizations that only exist in Nigeria to leech money and resources away from their lands. (Afolayan)`,
@@ -175,8 +187,11 @@ Almost every single problem within Fela Kuti’s life rooted from military or po
 				text: `Probably Fela’s most famous album was Zombie. This album enraged the government so much that they sent a military dispatch of over 1000 soldiers to his compound due to the contents of the album. In the song named after the album, Fela Kuti teases the military and their soldiers by stating that all follow orders blindly without having any thought process behind their actions. (Olaniyan)
 
 _“Zombie no go go, unless you tell am to go (Zombie)_
+
 _Zombie no go stop, unless you tell am to stop (Zombie)_
+
 _Zombie no go turn, unless you tell am to turn (Zombie)_
+
 _Zombie no go think, unless you tell am to think (Zombie)”_`,
 				image: {
 					src: "zombie.png",
