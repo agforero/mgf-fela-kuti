@@ -1,25 +1,28 @@
-import Image from "next/image";
-import styles from "./page.module.css";
-import { Ballet } from 'next/font/google'
+import { ArrowForwardOutlined } from "@mui/icons-material";
+import { Box, Button, Container, Typography } from "@mui/material";
+import Link from "next/link";
 
-const ballet = Ballet({ subsets: ['latin'] })
-
-export default function Home() {
-  return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <h1 className={ballet.className} style={{color: "red"}}>Maximos Forero</h1>
-        <Image
-          className={styles.logo}
-          src="https://www.whatdosquirrelseat.org/static/img/squirrel-eating-peanuts.jpg"
-          alt="squirrel"
-          width={400}
-          height={100}
-          priority
-        />
-      </main>
-      <footer className={styles.footer}>
-      </footer>
-    </div>
-  );
+export default function Intro() {
+	return (
+		<Container sx={{ display: "flex", alignItems: "center", height: "100%" }}>
+			<Box sx={{ width: "100%", overflowY: "auto" }}>
+				<Box sx={{ display: "flex", flexDirection: "column", width: "100%", overflowY: "auto" }} gap={3}>
+					<Typography>Welcome to</Typography>
+					<Typography variant="h1" id="mainBanner" style={{ textAlign: "center", fontWeight: 500 }}>
+						Fela Kuti: Father of AfroBeat
+					</Typography>
+					<Typography variant="subtitle1" style={{ textAlign: "center" }}>
+						A report by Maximos Forero.
+					</Typography>
+					<Box sx={{ display: "flex", flexDirection: "row-reverse" }}>
+						<Link href="/tutorial">
+							<Button color="amber" variant="contained" endIcon={<ArrowForwardOutlined />}>
+								Proceed
+							</Button>
+						</Link>
+					</Box>
+				</Box>
+			</Box>
+		</Container>
+	);
 }

@@ -1,0 +1,7 @@
+{
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+  "prettier.endOfLine": "lf",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
+}
