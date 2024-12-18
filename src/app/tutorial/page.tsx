@@ -210,8 +210,8 @@ export default function Tutorial() {
 								<Box sx={{ display: "flex", flexDirection: "column" }} gap={2}>
 									<span style={{ color: "white" }}>
 										<Typography sx={{ display: "inline-block" }}>
-											It is difficult to enunciate the power of Fela Kuti's music with words. The best way to understand
-											his music is to listen to it.
+											It is difficult to enunciate the power of Fela Kuti&apos;s music with words. The best way to
+											understand his music is to listen to it.
 										</Typography>
 										<Typography sx={{ display: "inline-block" }}>
 											There is a music player included with this project. You can find the&nbsp;
