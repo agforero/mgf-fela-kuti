@@ -225,25 +225,25 @@ export default function Tutorial() {
 										<List>
 											<ListItem>
 												<ListItemAvatar>
-													<SkipNextOutlined sx={{ color: theme.palette.amber.main }} />
+													<SkipNextOutlined sx={{ backgroundColor: "black", color: theme.palette.amber.main }} />
 												</ListItemAvatar>
 												<ListItemText>Goes to the previous song,</ListItemText>
 											</ListItem>
 											<ListItem>
 												<ListItemAvatar>
-													<PauseOutlined sx={{ color: theme.palette.amber.main }} />
+													<PauseOutlined sx={{ backgroundColor: "black", color: theme.palette.amber.main }} />
 												</ListItemAvatar>
 												<ListItemText>pauses the song,</ListItemText>
 											</ListItem>
 											<ListItem>
 												<ListItemAvatar>
-													<PlayArrowOutlined sx={{ color: theme.palette.amber.main }} />
+													<PlayArrowOutlined sx={{ backgroundColor: "black", color: theme.palette.amber.main }} />
 												</ListItemAvatar>
 												<ListItemText>plays the song, and</ListItemText>
 											</ListItem>
 											<ListItem>
 												<ListItemAvatar>
-													<SkipNextOutlined sx={{ color: theme.palette.amber.main }} />
+													<SkipNextOutlined sx={{ backgroundColor: "black", color: theme.palette.amber.main }} />
 												</ListItemAvatar>
 												<ListItemText>skips to the next song.</ListItemText>
 											</ListItem>

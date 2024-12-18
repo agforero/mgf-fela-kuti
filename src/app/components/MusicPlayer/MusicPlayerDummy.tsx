@@ -9,7 +9,7 @@ interface MusicPlayerDummyProps {
 
 export default function MusicPlayerDummy(props: MusicPlayerDummyProps) {
 	return (
-		<Box sx={{ display: "flex", p: 1, border: `1px solid ${props.color}`, borderRadius: "1px" }} gap={1}>
+		<Box sx={{ display: "flex", p: 1, border: `3px solid ${props.color}`, borderRadius: "1px" }} gap={1}>
 			<Box sx={{ display: "flex" }} gap={1}>
 				<IconButton sx={{ p: 0 }}>
 					<SkipPreviousOutlined

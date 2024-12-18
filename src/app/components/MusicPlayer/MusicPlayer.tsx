@@ -51,11 +51,6 @@ export default function MusicPlayer() {
 		}
 	}, [currentSongIdx]);
 
-	React.useEffect(() => {
-		console.log("wavesurferLoading:");
-		console.log(wavesurferLoading);
-	}, [wavesurferLoading]);
-
 	const [playing, setPlaying] = React.useState<boolean>(false);
 
 	const handlePlay = React.useCallback(() => {
